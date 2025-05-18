@@ -1,0 +1,9 @@
+python-bcb
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+plotly
+bokeh
+nbformat>=4.2.0

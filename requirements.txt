@@ -7,3 +7,4 @@ seaborn
 plotly
 bokeh
 nbformat>=4.2.0
+statsmodels
